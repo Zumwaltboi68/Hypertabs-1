@@ -1,5 +1,5 @@
 <!-- Notice for idiots -->
-# NOTICE:
+# NOTICE: 
 
 You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. They are static hosts, they just act as a web facing file system, you need the actual proxy for this to work.
 
@@ -41,8 +41,8 @@ Press the join button to join the server:
 
 [![Join us on Discord](https://invidget.switchblade.xyz/fzrmxgu2NR?theme=light)](https://discord.gg/fzrmxgu2NR)
 
-## Credits
-
+## Credits wow
+ 
 - [B3ATDROP3R](https://github.com/B3ATDROP3R)
 - [Caracal.js](https://github.com/caracal-js)
 - [luphoria](https://github.com/luphoria)
